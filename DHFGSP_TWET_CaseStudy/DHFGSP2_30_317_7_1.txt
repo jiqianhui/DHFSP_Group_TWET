@@ -1,7 +1,7 @@
 Factories：	2
 Groups:	30
 Jobs:	317
-Stages7
+Stages:	7
 Group size/Jobs of each group:
 2	151	168	
 5	35	222	65	162	156	
